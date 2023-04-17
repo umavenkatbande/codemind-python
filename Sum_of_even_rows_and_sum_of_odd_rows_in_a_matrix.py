@@ -11,4 +11,4 @@ for i in range(r):
     elif i%2!=0:
         d += sum(mat[i])
         
-print(s,d,end = ' ')
+print(s,d, end = ' ')
